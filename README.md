@@ -58,3 +58,9 @@ IDs e nº de estações: usa o botão + Adicionar estação e/ou o campo de edi�
 Cores: a paleta está no topo do ficheiro (array palette).
 
 Mensagens/UI: a narração e rótulos são strings PT‑PT passíveis de ajuste.
+
+
+
+
+<img width="968" height="634" alt="Contagem Regressiva Binária" src="https://github.com/user-attachments/assets/a537ae6b-b4cb-4b4b-8680-7edb911e800a" />
+
